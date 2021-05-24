@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laukik Verma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laurel Verma</h1>
 
 
 - :telescope: I’m a Sophomore Computer Science and Engineering Undergrad student at the Indian Institute of Information Technology, Sri City.
