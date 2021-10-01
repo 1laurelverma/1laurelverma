@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laurel Verma</h1>
 
 
-- :telescope: I’m a pre final Computer Science and Engineering Undergrad student at the Indian Institute of Information Technology, Sri City.
+- :telescope: I’m a pre final year Computer Science and Engineering Undergrad student at the Indian Institute of Information Technology, Sri City.
 - :seedling: I’m a web developer and coding Enthusiast.
 
 ### :zap: Connect with me
