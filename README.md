@@ -2,7 +2,7 @@
 
 
 - :telescope: I’m a pre final year Computer Science and Engineering Undergrad student at the Indian Institute of Information Technology, Sri City.
-- :seedling: I’m a web developer and coding Enthusiast.
+- :seedling: I’m a software developer and coding Enthusiast.
 
 ### :zap: Connect with me
 
