@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laurel Verma</h1>
 
 
-- :telescope: I’m a final year Computer Science and Engineering Undergrad student at the Indian Institute of Information Technology, Sri City.
+- :telescope: I’m a recent Computer Science and Engineering graduate from Indian Institute of Information Technology, Sri City.
 - :seedling: I’m a software developer and coding Enthusiast.
 
 ### :zap: Connect with me
